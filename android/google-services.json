@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1090603313533",
+    "project_id": "school-timetable-bus-push",
+    "storage_bucket": "school-timetable-bus-push.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090603313533:android:a60126cc24b9c31b7f8414",
+        "android_client_info": {
+          "package_name": "com.iamKong.example.timetable_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm0k6tk8UAtRBKG1esN-H-mScUb_wIAKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
