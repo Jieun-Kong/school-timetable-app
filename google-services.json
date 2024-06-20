@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "753899941635",
+    "project_id": "school-timetable-notif",
+    "storage_bucket": "school-timetable-notif.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753899941635:android:4ce8d19a9eba9b7c374336",
+        "android_client_info": {
+          "package_name": "com.iamKong.example.timetable_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgSjctjMQeb90jaxJXa46AQ2RhY0sE-34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
